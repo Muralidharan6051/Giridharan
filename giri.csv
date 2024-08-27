@@ -1,0 +1,21 @@
+gender,m,,
+,,,
+,Values,,
+Row Labels,Count of profession,Count of way,Count of greywage
+ HoReCa,1,1,1
+Agriculture,4,4,4
+Banks,22,22,22
+Building,8,8,8
+Consult,16,16,16
+etc,21,21,21
+IT,51,51,51
+manufacture,40,40,40
+Mining,10,10,10
+Pharma,1,1,1
+PowerGeneration,9,9,9
+RealEstate,1,1,1
+Retail,67,67,67
+State,12,12,12
+Telecom,8,8,8
+transport,4,4,4
+Grand Total,275,275,275
